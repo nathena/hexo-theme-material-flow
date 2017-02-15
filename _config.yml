@@ -21,15 +21,5 @@ search:
 less:
   compress: true
 
-# use url, not username
-social:
-- slug: github
-  url: https://github.com/nathena
-- slug: twitter
-  url: https://twitter.com/nathena
-- slug: rss
-  url: /atom.xml
-
-
 #  Add Google analytics tracking ID here
 # google_analytics: 
