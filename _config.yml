@@ -24,9 +24,9 @@ less:
 # use url, not username
 social:
 - slug: github
-  url: https://github.com/xxxx
+  url: https://github.com/nathena
 - slug: twitter
-  url: https://twitter.com/xxxx
+  url: https://twitter.com/nathena
 - slug: rss
   url: /atom.xml
 
